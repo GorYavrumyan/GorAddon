@@ -1,0 +1,8 @@
+{
+  "name": "Gor_Style",
+  "version": "1.0",
+  "author": "Студия дизайна",
+  "description": "Оформление, созданное в Студии дизайна (addon_API).",
+  "start_file": "main.py",
+  "min_api": 1
+}
